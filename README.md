@@ -4,7 +4,7 @@
 
 - [MSP TFT 소개](http://www.microsoft.com/ko-kr/events/2014/dreamsparkmvaproject/codechallenge/#MSP)
 - [10월 Test 문항 보러가기](http://cafe.naver.com/mspforever/2403)
-- 11월
+- [11월 Test 문항 보러가기](http://cafe.naver.com/mspforever/2586)
 - 12월
 
 ## Code Challenge란?
